@@ -1,13 +1,13 @@
-package com.ApplienceShop.ApplienceShop;
+package com.ApplianceShop.ApplianceShop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApplienceShopApplication {
+public class ApplianceShopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApplienceShopApplication.class, args);
+		SpringApplication.run(ApplianceShopApplication.class, args);
 	}
 
 }
