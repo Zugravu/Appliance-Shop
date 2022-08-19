@@ -26,5 +26,6 @@ public class Appliance {
     @NotNull
     ApplianceType applianceType;
     Boolean deleted=false;
+    Integer price;
 
 }
